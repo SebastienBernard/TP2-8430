@@ -2,7 +2,7 @@
 
 import React, {Component} from 'react';
 
-export default class Content extends Component {
+export default class Search extends Component {
     render(){
         return (
             <div className="content-wrapper">
@@ -11,7 +11,7 @@ export default class Content extends Component {
                         <div className="col-md-12">
                             <div className="box">
                                 <div className="box-header with-border">
-                                    <h3 className="box-title">Monthly Recap Report</h3>
+                                    <h3 className="box-title">Search</h3>
                                 </div>
                                 <div className="box-body">
                                     <div className="row">
